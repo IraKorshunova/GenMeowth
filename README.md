@@ -12,8 +12,9 @@ The harmonization is a rule-based with a very basic set of rules, which I knew i
 2. Select a time signature, instrument and tempo 
 3. Generate
 4. Play
+
 You may skip the 1st step, but select a key signature then. Be careful: it may sound bad. 
  
 ![screen](/screen.jpg)
 
-You can listen to the results in tracks 1-4.
+I saved some results in tracks 1-4.
